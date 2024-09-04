@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/os/os_070_8/Documents/greetings/build",
+  "command": "/usr/bin/gcc  -I/home/os/os_070_8/Documents/greetings/include -g -o CMakeFiles/greetings.dir/src/main.c.o -c /home/os/os_070_8/Documents/greetings/src/main.c",
+  "file": "/home/os/os_070_8/Documents/greetings/src/main.c",
+  "output": "CMakeFiles/greetings.dir/src/main.c.o"
+}
+]

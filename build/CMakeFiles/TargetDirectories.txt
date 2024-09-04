@@ -1,0 +1,3 @@
+/home/os/os_070_8/Documents/greetings/build/CMakeFiles/greetings.dir
+/home/os/os_070_8/Documents/greetings/build/CMakeFiles/edit_cache.dir
+/home/os/os_070_8/Documents/greetings/build/CMakeFiles/rebuild_cache.dir
